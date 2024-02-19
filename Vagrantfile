@@ -1,6 +1,6 @@
 Vagrant.configure("2") do |config|
   config.vm.box = "almalinux/9"
-  config.vm.network "forwarded_port", guest: 3000, host: 3000, host_ip: "0.0.0.0"
+  config.vm.network "forwarded_port", guest: 3000, host: 3000, host_ip: "localhost"
   config.vm.provider "virtualbox" do |vb|
       vb.memory = "8192"
       vb.cpus = "4"
