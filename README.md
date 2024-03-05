@@ -1,47 +1,21 @@
-![Paymenter Logo](https://cdn.discordapp.com/attachments/935234707015229511/1028031007573680318/unknown.png)
+[![Logo Image](https://i.imgur.com/Jkx8ZoV.png)](https://pay.pyro.host)
 
-[![Discord](https://img.shields.io/discord/882318291014651924.svg?logo=discord)](https://discord.gg/xB4UUT3XQg)
-[![GitHub](https://img.shields.io/github/license/paymenter/paymenter)](https://github.com/Paymenter/paymenter/blob/master/LICENSE)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/paymenter/paymenter)](https://github.com/Paymenter/paymenter/releases)
-![Downloads](https://img.shields.io/github/downloads/paymenter/paymenter/total)
+<p align="center">
+ <a aria-label="Pyro logo" href="https://pyro.host"><img src="https://i.imgur.com/uvIy6cI.png"></a>
+ <a aria-label="Join the Pyro community on Discord" href="https://discord.gg/fxeRFRbhQh?utm_source=pyropaygithubreadme&utm_medium=readme&utm_campaign=OSSLAUNCH&utm_id=OSSLAUNCH"><img alt="" src="https://i.imgur.com/qSfKisV.png"></a>
+ <a aria-label="Licensed under Business Source License 1.1" href="https://github.com/pyrohost/pay/blob/main/LICENSE"><img alt="" src="https://i.imgur.com/DHx8Cz6.png"></a>
+</p>
 
-[Discord](https://discord.gg/xB4UUT3XQg), [Demo](https://demo.paymenter.org), [Docs](https://paymenter.org/docs/getting-started/introduction/), [Website](https://paymenter.org)
+<h1 align="center">pyropay by pyro.host</h1>
 
-## An advanced payment system for your hosting company
-### About
+pyropay is the Paymenter-based billing management panel. Our fork focuses on performance enhancements, a reimagined, accessible interface, and top-tier developer experience. 
 
-Introducing an advanced payment system for your hosting company, Paymenter!  Paymenter is designed to be easy to use and install, with a user-friendly client and admin area. It's also highly customizable, with the ability to install a range of addons and themes from our marketplace created by talented developers and designers.
+## Running Locally
+Local development on Windows is handled thorugh [vagrant](https://www.vagrantup.com/) a *expermental* helper script can be found at `start.ps1`. Running it requires Virtualbox and vagrant.
+## License
 
-## Features
-- Free and open-source
-- User-Friendly client and admin area
-- Easily customizable
-- Pay intergration with: Stripe, PayPal, Mollie and more
-- Server intergration with: Pterodactyl, Virtualizor, Virtfusion and more
-- Automatically bill your customers
-- Built in support center
-- Generate coupons to give your customers discounts
+Paymenter Copyright © 2023 Paymenter
 
-## Sponsors
+pyropay™ Copyright © 2024 pyro.host
 
-Thanks to all sponsors for helping fund Paymenter's development.
-[Interested in becoming a sponsor?](https://github.com/sponsors/CorwinDev)
-
-<a href="https://macarne.com">
-    <img src="https://github.com/Paymenter/Paymenter/assets/88144943/9f9c164c-5b43-401a-83da-77754a51416e" width="350">
-</a>
-
-## Wanna take a look?
-Visit our demo at: https://demo.paymenter.org
-
-## Requirements
-The requirements for Paymenter are the following:
-- PHP (8.1 or higher)
-- Composer
-
-## Installation & Documentation
-For a detailed explanation of how to install and configure Paymenter, take a look at our [documentation here](https://paymenter.org/docs/getting-started/introduction/)!
-- Or, get additional help via [Community Discord](https://discord.gg/xB4UUT3XQg).
-
-## Local Development
-Local development on windows is handled thorugh [vagrant](https://www.vagrantup.com/) a *expermental* helper script can be found at `start.ps1`. Running it requires Virtualbox and vagrant.
+pyropay™ and its source code is licensed and distributed under Business Source License 1.1. Please see the [LICENSE](https://github.com/pyrohost/pay/blob/main/LICENSE) file for more information on your rights to use pyropay.
