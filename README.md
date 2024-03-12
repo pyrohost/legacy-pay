@@ -18,4 +18,4 @@ Paymenter Copyright © 2023 Paymenter
 
 pyropay™ Copyright © 2024 pyro.host
 
-pyropay™ and its source code is licensed and distributed under Business Source License 1.1. Please see the [LICENSE](https://github.com/pyrohost/pay/blob/main/LICENSE) file for more information on your rights to use pyropay.
+pyropay™ and its source code is licensed and distributed under Business Source License 1.1. Please see the [LICENSE](https://github.com/pyrohost/pay/blob/dev/LICENSE) file for more information on your rights to use pyropay.
